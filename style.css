@@ -25,6 +25,7 @@ body {
   color: var(--White);
   background-color: var(--Grey-900);
   align-items: center;
+  padding: 1rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
